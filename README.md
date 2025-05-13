@@ -1,4 +1,4 @@
-# Marketing Campaign Effectiveness Analysis
+### Marketing Campaign Effectiveness Analysis
 ## Problem Statement
 - This project investigates how a customer's response to marketing campaigns is influenced by demographic and behavioral factors such as age, income, education level, marital status, spending behavior, and past campaign interactions. Understanding these factors will help improve future marketing strategies.
 
